@@ -68,4 +68,4 @@ Returns whether a module is linked by `npm` or `yarn`. If no module name is prov
 
 whether module is linked.
 
-Defined in: index.ts:26
+Defined in: [index.ts:26](https://github.com/ozum/is-linked/blob/ebb8abc/src/index.ts#L26)
